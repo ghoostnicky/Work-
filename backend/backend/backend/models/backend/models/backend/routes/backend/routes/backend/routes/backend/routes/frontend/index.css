@@ -1,0 +1,30 @@
+/* General resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Body */
+body {
+  background-color: #ffffff; /* White background for Big Brother brand */
+  color: #333333;
+}
+
+/* Buttons */
+button {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
